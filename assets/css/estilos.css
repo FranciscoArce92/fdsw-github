@@ -1,5 +1,15 @@
 body {
   font-family: "Raleway", sans-serif;
+  scroll-behavior: smooth;
+}
+
+nav {
+ .container {
+  a > img {
+    width: 100px;
+    height: 90px;
+  }
+ }
 }
 
 /* Hero Section */
