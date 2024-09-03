@@ -21,6 +21,15 @@ nav {
   background-position: left;
 }
 
+/* About section*/
+#Acerca-de-mi {
+  .row {
+    i.fa-user-check, i.fa-user-graduate, i.fa-clipboard-list {
+      font-size: 3em;
+    }
+  }
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
